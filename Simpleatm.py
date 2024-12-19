@@ -1,6 +1,5 @@
 import time
 
-# Prompt user to insert their card
 print("Please insert your card")
 time.sleep(5)
 
